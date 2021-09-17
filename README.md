@@ -1,1 +1,3 @@
-# bone-structure1
+        npm init
+        npm i
+        npm dev
